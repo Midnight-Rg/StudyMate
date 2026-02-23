@@ -1,38 +1,38 @@
-# 🎓 Çevrimiçi Okul Discord Botu 🚀
+# 🎓 Online School Discord Bot 🚀
 
-> *"Eğitimi sadece faydalı değil, aynı zamanda eğlenceli ve etkileşimli hale getiriyoruz!"*
-
----
-
-## 🌟 Proje Hakkında
-Bu proje, çevrimiçi okulumuzdaki öğrencilere ders programlarını anında ulaştırmak için tasarlanmış modern bir Discord asistanıdır. Karışık komutlar veya sıkıcı tablolar yerine, kullanıcı dostu bir arayüz ile öğrenciler sadece **tek bir butona tıklayarak** haftalık programlarına ulaşabilirler. 
-
-Öğrenme serüveninizi kolaylaştırmak için tasarlandı! 💡
+> *"Making education not only useful but also fun and interactive!"*
 
 ---
 
-## ✨ Temel Özellikler
-* **👆 Tek Tıkla Erişim:** Öğrencilerin botla etkileşimini kolaylaştıran şık bir buton tasarımı.
-* **⚡ Hızlı ve Etkileşimli:** Tıklandığı anda ders programını göze hitap eden özel bir mesaj (Embed) formatında sunar.
-* **🛠️ Temiz Kod Mimarisi:** Botun çalışma mantığı ve verileri ayrı dosyalarda tutularak yüksek performans hedeflenmiştir.
+## 🌟 About the Project
+This project is a modern Discord assistant designed to instantly deliver class schedules to students in our online school. Instead of complex commands or boring tables, with a user-friendly interface, students can access their weekly schedule with just **a single click of a button**. 
+
+Designed to make your learning adventure easier! 💡
 
 ---
 
-## 👨‍🎓 Öğrenciler İçin Kullanım Rehberi
-
-Botu kullanmak bir bilgisayar oyunu oynamak kadar basit ve sezgiseldir!
-
-1. Sunucumuzdaki `#ders-programı` (veya ilgili) kanala gidin.
-2. Botun ekrana bıraktığı ana mesajın altındaki **"📅 Programı Göster"** butonuna tıklayın.
-3. İşte bu kadar! Sosyal Bilgiler, Türkçe, Din Kültürü, Fen Bilimleri gibi derslerinizin saatleri anında özel bir mesajla ekranınızda belirecek. Defalarca tıklayabilirsiniz, bot asla yorulmaz! 🤖
+## ✨ Key Features
+* **👆 One-Click Access:** A stylish button design that makes student interaction with the bot effortless.
+* **⚡ Fast & Interactive:** Instantly presents the class schedule in a visually appealing custom message (Embed) format when clicked.
+* **🛠️ Clean Code Architecture:** Designed for high performance by keeping the bot's logic and data in separate files.
 
 ---
 
-## 👨‍💻 Okul Yöneticileri (Adminler) İçin Kurulum ve Ayarlar
+## 👨‍🎓 User Guide for Students
 
-Botun yönetimi, kodlama bilmeyen bir yöneticinin bile rahatça anlayabileceği şekilde tasarlanmıştır.
+Using the bot is as simple and intuitive as playing a video game!
+
+1. Go to the `#class-schedule` (or relevant) channel on our server.
+2. Click the **"📅 Show Schedule"** button under the bot's main message.
+3. That's it! The times for your classes like Social Studies, Turkish, Religion, and Science will instantly appear on your screen in a private message. You can click it as many times as you want, the bot never gets tired! 🤖
+
+---
+
+## 👨‍💻 Setup and Settings for School Administrators (Admins)
+
+The bot's management is designed so that even an admin with no coding knowledge can easily understand it.
 
 ```diff
-+ GÜVENLİK BİLDİRİMİ
-+ Sadece sunucu yetkilileri (Adminler) botun kontrol panelini çağırabilir. 
-- Öğrenciler ana mesajı silemez veya değiştiremez.
++ SECURITY NOTICE
++ Only server administrators (Admins) can summon the bot's control panel. 
+- Students cannot delete or modify the main message.
